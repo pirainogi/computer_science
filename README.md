@@ -1,2 +1,2 @@
-# computer_science
-data structures et. al
+# data_structures
+et. al
